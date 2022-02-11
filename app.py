@@ -76,7 +76,7 @@ def main():
     st.title('Traffic Signs Classification')
     
   
-    st.image('./Test Random Images/dash.jpg', use_column_width=True)
+    
     image_usr = st.file_uploader('Upload a photo of traffic sign here', type=['jpg', 'jpeg', 'png'])
 
     if image_usr is not None:
