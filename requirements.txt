@@ -11,7 +11,7 @@ packaging==20.3
 Pillow==7.1.1
 requests==2.23.0
 requests-file==1.4.3
-scikit-learn==0.22.2.post1
+scikit-learn
 scipy==1.4.1
 sklearn==0.0
 streamlit==0.58.0
