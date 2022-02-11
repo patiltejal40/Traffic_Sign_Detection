@@ -72,7 +72,7 @@ def sign_predict(image):
 
 def main():
     # Set page config and markdowns
-    st.set_page_config(page_title='Traffic Signs Classification', page_icon=':car:')
+    
     st.title('Traffic Signs Classification')
     
   
