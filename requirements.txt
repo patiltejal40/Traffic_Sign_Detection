@@ -17,3 +17,4 @@ scipy==1.4.1
 sklearn==0.0
 streamlit==0.58.0
 tensorflow==2.0.0
+opencv-python
