@@ -2,7 +2,7 @@ import numpy as np
 import streamlit as st
 import cv2 as cv
 from PIL import Image
-from keras.models import load_model
+from tensorflow.keras.models import load_model
 
 
 
